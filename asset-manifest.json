@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mr.MUKUL/static/css/main.1dd0c497.css",
+    "main.js": "/Mr.MUKUL/static/js/main.4141dd6e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Mr.MUKUL/static/js/787.28cb0dcd.chunk.js",
+    "static/media/krishna.mp3": "/Mr.MUKUL/static/media/krishna.1c0d779ed5c0c3888e2d.mp3",
+    "static/media/logo.svg": "/Mr.MUKUL/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mr.MUKUL/index.html",
+    "main.1dd0c497.css.map": "/Mr.MUKUL/static/css/main.1dd0c497.css.map",
+    "main.4141dd6e.js.map": "/Mr.MUKUL/static/js/main.4141dd6e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Mr.MUKUL/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd0c497.css",
+    "static/js/main.4141dd6e.js"
+  ]
+}
